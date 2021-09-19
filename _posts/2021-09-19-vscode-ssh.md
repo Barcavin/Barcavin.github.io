@@ -1,8 +1,6 @@
 ---
 title: 'Visual Studio Code on Remote Server'
 date: 2021-09-19
-header:
-  teaser: "mohammad-rahmani-Y5yxdx2a4PI-unsplash.jpg"
 permalink: /posts/2021/09/19/vscode-ssh
 tags:
   - Visual Studio Code
@@ -18,6 +16,7 @@ rsync -->
 
 The remote development can be via ssh or container. We just cover ssh part here. As there are also a lot of other great tutorials about setting it up so I'd like to go through it more with my personal tips and tricks.
 
+![VS Code](/images/mohammad-rahmani-Y5yxdx2a4PI-unsplash.jpg)
 
 What I like about it
 ======
