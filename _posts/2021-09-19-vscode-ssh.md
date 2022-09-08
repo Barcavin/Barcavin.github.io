@@ -39,6 +39,15 @@ SSH configuration Setup
 If you have some hosts used a lot, or your ssh command is more than just `ssh user@hostname`, you
 may want to use the [advanced settings](https://code.visualstudio.com/docs/remote/ssh#_remember-hosts-and-advanced-settings) for ssh connection.
 
+My setup of SSH config:
+```
+Host crc
+  HostName crcfe01.crc.nd.edu
+  User <username>
+  ProxyJump <username>@jumpbox.nd.edu
+```
+
+If the ssh server has a jump server as the bridge to access, one can set up the ProxyJump in SSH config.
 
 What if the VS Code Server crash?
 ======
@@ -52,7 +61,15 @@ The other way is to remove the entire VS Code server folder on the remote server
 from terminal still works.
 
 ```
-rm -rf ~/.vscode-remote
+rm -rf ~/.vscode-server
+```
+
+If the VS Code server is still running on the host server, the file in `.vscode-server` may not be deleted as it uses the resource. Another way to restart the VS Code server is:
+
+```
+lsof +D .vscode-server/
+kill -9 
+ps uxa | grep <username>/.vscode-server | awk '{print $2}' | xargs kill -9
 ```
 
 File sync to local machine

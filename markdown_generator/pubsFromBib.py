@@ -34,6 +34,14 @@ publist = {
                         "permalink":"/publication/"}
         
     },
+    "article": {
+        "file" : "../files/cv/pub.bib",
+        "venuekey": "journal",
+        "venue-pretext": "",
+        "collection" : {"name":"publications",
+                        "permalink":"/publication/"}
+        
+    },
     # "journal":{
     #     "file": "pubs.bib",
     #     "venuekey" : "journal",
