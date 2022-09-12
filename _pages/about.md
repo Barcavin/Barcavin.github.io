@@ -13,3 +13,11 @@ Hey folks. I am a second-year PhD student in Computer Science and Engineering at
 My research interests lie in graph machine learning, representation learning and data science. I am currently working on the problem of graph representation learning, and its applications in link prediction. I also like building data-driven applications that can help people make better decisions.
 
 Cheers!
+
+
+# What's New
+
+
+- [2021.08] Our paper about self-supervised learning on heterogeneous graph is available. [Paper](https://arxiv.org/abs/2208.09957)
+- [2021.08] Started my first year at Notre Dame!
+- [2021.06] One paper was accepted at [ECML PKDD 2021](https://2021.ecmlpkdd.org/index.html). [Paper](https://link.springer.com/chapter/10.1007/978-3-030-86517-7_21)
