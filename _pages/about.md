@@ -18,6 +18,7 @@ Cheers!
 # What's New
 
 
-- [2021.08] Our paper about self-supervised learning on heterogeneous graph is available. [Paper](https://arxiv.org/abs/2208.09957)
+- [2022.10] Our paper about link prediction is accepted to LOG’23.
+- [2022.08] Our paper about self-supervised learning on heterogeneous graph is accepted to AAAI’23. [Paper](https://arxiv.org/abs/2208.09957)
 - [2021.08] Started my first year at Notre Dame!
 - [2021.06] One paper was accepted at [ECML PKDD 2021](https://2021.ecmlpkdd.org/index.html). [Paper](https://link.springer.com/chapter/10.1007/978-3-030-86517-7_21)
