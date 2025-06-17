@@ -8,15 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Hey folks. I am a fourth-year PhD student in Computer Science and Engineering at [University of Notre Dame](https://www.nd.edu/), supervised by Prof. [Nitesh Chawla](https://niteshchawla.nd.edu/). Before that, I worked as a data scientist at [Aunalytics](https://www.aunalytics.com/). I received my Master degree in Statistics at [University of Illinois Urbana-Champaign](https://stat.illinois.edu/), and my Bachelor degree in Mathematics at [Sichuan University](https://en.scu.edu.cn/).
+Hey folks. I am a Senior AI Research Scientist at [Intuit](https://www.intuit.com/ai/research/). I received my PhD in Computer Science and Engineering at [University of Notre Dame](https://www.nd.edu/), supervised by Prof. [Nitesh Chawla](https://niteshchawla.nd.edu/). Before that, I worked as a data scientist at [Aunalytics](https://www.aunalytics.com/). I received my Master degree in Statistics at [University of Illinois Urbana-Champaign](https://stat.illinois.edu/), and my Bachelor degree in Mathematics at [Sichuan University](https://en.scu.edu.cn/).
 
-My research interests lie in graph machine learning, representation learning and data science. I am currently working on the problem of graph representation learning, and its applications in link prediction. I also like building data-driven applications that can help people make better decisions.
+My research centers on graph machine learning, natural language processing and deep relational learning, with applications to enterprise AI systems. My work spans applications on relational databases, enterprise text-to-SQL, and link prediction on large-scale graph datasets. I also like building data-driven applications that can automate tasks and help people make better decisions.
 
 Cheers!
 
 
 # What's New
 
+- [2025.06] I am now a Senior AI Research Scientist at Intuit!
+- [2025.04] We develop an enterprise transaction categorization system built on top of a large-scale relational database. Check out our work at ECML-PKDD'25 on how AI can be applied to traditional data science problems in [this paper](https://www.arxiv.org/abs/2506.09234).
+- [2025.02] Our Trainless GNNs paper got accepted to IJCNN'25! [Arxiv](https://arxiv.org/abs/2404.11019).
 - [2024.09] My work [MPLP](https://arxiv.org/abs/2309.00976) got accepted to Neurips'24!
 - [2024.05] Excited to start my summer internship as a research scientist at Intuit.
 - [2024.04] We propose a family of Trainless GNNs that can be fitted on graphs **without** gradient descent. See preprint at [Arxiv](https://arxiv.org/abs/2404.11019).
